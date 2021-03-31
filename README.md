@@ -1,2 +1,2 @@
 # Reaction-timer
-it is a game where you click on the shapes and then you get to know your reaction time - made with Html ,css and javascript
+ Made using javascript html and css , this is a game which helps you to know your reaction time  
